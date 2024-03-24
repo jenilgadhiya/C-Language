@@ -58,6 +58,8 @@
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
   "files.associations": {
     "3.C": "cpp",
-    "2.C": "cpp"
+    "2.C": "cpp",
+    "1 - Copy.C": "cpp",
+    "4.C": "cpp"
   }
 }

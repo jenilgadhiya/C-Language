@@ -1,16 +1,13 @@
-#include<stdio.h>
-#include<conio.h>
+#include <stdio.h>
+#include <conio.h>
 main()
 {
-	int s=0,n;
+	char ch = 'a';
 	clrscr();
-	printf("enter any number:");
-	scanf("%d",&n);
-	while(n>0)
+	do
 	{
-		s+=n%10;
-		n/=10;
-	}
-	printf("magic number is\t:%d",s);
+		printf("%c\t", ch);
+		ch += 4;
+	} while (ch <= 'z');
 	getch();
 }
