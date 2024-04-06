@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": ".",
-      "program": "build/Debug/outDebug",
+      "cwd": "c:/TurboC++/Disk/TurboC3/BIN/JENIL/PR-4",
+      "program": "c:/TurboC++/Disk/TurboC3/BIN/JENIL/PR-4/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
